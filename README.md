@@ -1,2 +1,2 @@
 # devop
-devop asterisk terraform
+devop asterisk terraform 1.0
