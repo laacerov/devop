@@ -48,7 +48,7 @@ variable "balance_vosk" {
 }
 
 variable "private_key_path" {
-  default = "/root/.ssh/google_compute_engine"
+  default = "/var/lib/jenkins/workspace/asterisk/google_compute_engine"
 }
 
 variable "timezone" {
