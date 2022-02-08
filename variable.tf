@@ -48,7 +48,7 @@ variable "balance_vosk" {
 }
 
 variable "private_key_path" {
-  default = "~/.ssh/google_compute_engine"
+  default = "/root/.ssh/google_compute_engine"
 }
 
 variable "timezone" {
