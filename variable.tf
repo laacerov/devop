@@ -68,7 +68,7 @@ variable "host" {
 }
 
 variable "rabbit_n1" {
-  #rabbit_n1 = "cwmoyseh:QHJ2uuYWSv5-qcQ9QsJwI_0zkOdYoMZ7@advanced-maroon-bear.rmq3.cloudamqp.com"
+  #rabbit_n1 = "aaaaaa:uuuuuuuu@advanced-maroon-bear.rmq3.cloudamqp.com"
 }
 
 variable "rabbit_n2" {
@@ -76,7 +76,7 @@ variable "rabbit_n2" {
 }
 
 variable "queue_client" {
-  #queue_client = "client.5fa425ec8b3cd28bd7d24f12"
+  #queue_client = "client.123459921991291"
 }
 
 variable "server_name_rabbit" {
@@ -88,15 +88,15 @@ variable "server_port_rabbit" {
 }
 
 variable "server_user_rabbit" {
-  #server_user_rabbit = "cwmoyseh"
+  #server_user_rabbit = "aaaaaa"
 }
 
 variable "server_password_rabbit" {
-  #server_password_rabbit = "QHJ2uuYWSv5-qcQ9QsJwI_0zkOdYoMZ7"
+  #server_password_rabbit = "XXXXXXXX-PASSS"
 }
 
 variable "server_vhost_rabbit" {
-  #server_vhost_rabbit = "vvgifgbp"
+  #server_vhost_rabbit = "uuuuuuuuuu"
 }
 
 variable "server_exchange_rabbit" {
