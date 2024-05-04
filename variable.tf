@@ -32,7 +32,7 @@ variable "startup_script_bucket" {
 }
 
 variable "public_key" {
-  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCt36yP5PesG6k5XUZZ6u0Ann9n2An7FLQ8bndMG8pKu57D+N4Xtl8S9NDJgEKAOJnnaNxfwtKSNBxShhg3eXUueLoSEptCpDb5XnHXxo+jP/E2lANNF5Oq49jvPHJlkE0mifBDG7fGFOKV0+rFYH4xN4HTEJh37OEm13x1nF/PzqgGKUTUSe66cs5+ohPtHAavKyVcZWmsDCAwAikLu7gXajSHZIwiWh6FwgTyq4WRyR8AP1l1oOSz5qK0lCO1N4vHAcjfAnR/r+stU3KCUhmqZsKUeICsl0Dd8+aBwbEkrRLZWylpaEcHiKt0UnvCwOE9fgu7gqOHOpgmZabmSzYH root@serv-devop"
+  default = "ssh-rsa XXXXXXXX root@serv-devop"
 }
 
 variable "username" {
